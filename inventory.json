@@ -1,6 +1,6 @@
 {
   "dealership": "Kelowna Infiniti Nissan",
-  "generated_at": "2026-09-26T15:16:49",
+  "generated_at": "2026-10-08T14:39:48",
   "vehicle_count": 145,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -19,7 +19,9 @@
       "year": 2016,
       "make": "Honda",
       "model": "Accord Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2016 Mazda MX-5 ",
@@ -35,13 +37,16 @@
       "year": 2016,
       "make": "Mazda",
       "model": "MX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2016 Nissan Juke SL AWDin Kelowna",
       "vin": "JN8AF5MV2GT652041",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "SL",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/880595ba0cca.html",
       "source_url": "https://www.kelownanissan.com/used/2016-Nissan-Juke-id14342895.html",
       "dealer_url": "https://www.kelownanissan.com/used/2016-Nissan-Juke-id14342895.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -51,8 +56,10 @@
       "odometer_km": 127670,
       "year": 2016,
       "make": "Nissan",
-      "model": "Juke SL AWDin Kelowna",
-      "condition": "used"
+      "model": "Juke",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2016 Nissan Juke ",
@@ -68,7 +75,9 @@
       "year": 2016,
       "make": "Nissan",
       "model": "Juke",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Acura MDX ",
@@ -84,13 +93,16 @@
       "year": 2017,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Lexus RX 350 ",
       "vin": "2T2BZMCA3HC084886",
       "stock": 14050150,
       "color": "Black",
+      "trim": "350",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/5218c6cd47b3.html",
       "source_url": "https://www.kelownanissan.com/used/2017-Lexus-RX_350.html",
       "dealer_url": "https://www.kelownanissan.com/used/2017-Lexus-RX_350.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -99,14 +111,17 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Lexus",
-      "model": "RX 350",
-      "condition": "used"
+      "model": "RX",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Rogue S AWDin Kelowna",
       "vin": "5N1AT2MV4HC790129",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/84d1a94a3a54.html",
       "source_url": "https://www.kelownanissan.com/used/2017-Nissan-Rogue-id14421629.html",
       "dealer_url": "https://www.kelownanissan.com/used/2017-Nissan-Rogue-id14421629.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -116,8 +131,10 @@
       "odometer_km": 99723,
       "year": 2017,
       "make": "Nissan",
-      "model": "Rogue S AWDin Kelowna",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Rogue ",
@@ -133,13 +150,16 @@
       "year": 2017,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Titan PRO-4X Luxury Package Crew Cab 4WDin Kelowna",
       "vin": "1N6AA1E5XHN530113",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "PRO-4X Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/6dbdc45fbc0e.html",
       "source_url": "https://www.kelownanissan.com/used/2017-Nissan-Titan-id14400823.html",
       "dealer_url": "https://www.kelownanissan.com/used/2017-Nissan-Titan-id14400823.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -149,8 +169,10 @@
       "odometer_km": 62462,
       "year": 2017,
       "make": "Nissan",
-      "model": "Titan PRO-4X Luxury Package Crew Cab 4WDin Kelowna",
-      "condition": "used"
+      "model": "Titan",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Titan ",
@@ -166,13 +188,16 @@
       "year": 2017,
       "make": "Nissan",
       "model": "Titan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Versa Note 1.6 SVin Kelowna",
       "vin": "3N1CE2CP7HL369894",
       "stock": "NUMBER",
       "color": "Dark grey",
+      "trim": "Note 1.6 SV",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/248c4eae50fa.html",
       "source_url": "https://www.kelownanissan.com/used/2017-Nissan-Versa_Note-id14174199.html",
       "dealer_url": "https://www.kelownanissan.com/used/2017-Nissan-Versa_Note-id14174199.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -182,14 +207,17 @@
       "odometer_km": 100970,
       "year": 2017,
       "make": "Nissan",
-      "model": "Versa Note 1.6 SVin Kelowna",
-      "condition": "used"
+      "model": "Versa",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Versa Note ",
       "vin": "3N1CE2CP7HL369894",
       "stock": 14174199,
       "color": "Dark grey",
+      "trim": "Note",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/79bf8042f447.html",
       "source_url": "https://www.kelownanissan.com/used/2017-Nissan-Versa_Note.html",
       "dealer_url": "https://www.kelownanissan.com/used/2017-Nissan-Versa_Note.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -198,8 +226,10 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Nissan",
-      "model": "Versa Note",
-      "condition": "used"
+      "model": "Versa",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Subaru Crosstrek ",
@@ -215,7 +245,9 @@
       "year": 2017,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2017 Subaru Legacy ",
@@ -231,7 +263,9 @@
       "year": 2017,
       "make": "Subaru",
       "model": "Legacy",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Cadillac Escalade ",
@@ -247,13 +281,16 @@
       "year": 2018,
       "make": "Cadillac",
       "model": "Escalade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Pathfinder Platinum 4WDin Kelowna",
       "vin": "5N1DR2MM7JC640122",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/95e8de7c1b17.html",
       "source_url": "https://www.kelownanissan.com/used/2018-Nissan-Pathfinder-id14111977.html",
       "dealer_url": "https://www.kelownanissan.com/used/2018-Nissan-Pathfinder-id14111977.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -263,8 +300,10 @@
       "odometer_km": 74630,
       "year": 2018,
       "make": "Nissan",
-      "model": "Pathfinder Platinum 4WDin Kelowna",
-      "condition": "used"
+      "model": "Pathfinder",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Pathfinder ",
@@ -280,13 +319,16 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Rogue SL AWD Platinum ProPILOT Assistin Kelowna",
       "vin": "JN8AT2MV0JW328843",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "SL Platinum ProPILOT Assist",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/40f9752bbadd.html",
       "source_url": "https://www.kelownanissan.com/used/2018-Nissan-Rogue-id14347406.html",
       "dealer_url": "https://www.kelownanissan.com/used/2018-Nissan-Rogue-id14347406.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -296,8 +338,10 @@
       "odometer_km": 97023,
       "year": 2018,
       "make": "Nissan",
-      "model": "Rogue SL AWD Platinum ProPILOT Assistin Kelowna",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Nissan Rogue ",
@@ -313,7 +357,9 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2018 Toyota Tacoma ",
@@ -329,7 +375,9 @@
       "year": 2018,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Acura RDX ",
@@ -345,7 +393,9 @@
       "year": 2019,
       "make": "Acura",
       "model": "RDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Acura RDX ",
@@ -361,7 +411,9 @@
       "year": 2019,
       "make": "Acura",
       "model": "RDX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Ford F-150 ",
@@ -377,7 +429,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Ford F-150 ",
@@ -393,7 +447,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 GMC Terrain ",
@@ -409,7 +465,9 @@
       "year": 2019,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 GMC Terrain ",
@@ -425,7 +483,9 @@
       "year": 2019,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Wrangler ",
@@ -441,7 +501,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Wrangler ",
@@ -457,7 +519,9 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Lincoln Nautilus ",
@@ -473,7 +537,9 @@
       "year": 2019,
       "make": "Lincoln",
       "model": "Nautilus",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Lincoln Nautilus ",
@@ -489,13 +555,16 @@
       "year": 2019,
       "make": "Lincoln",
       "model": "Nautilus",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan LEAF SL PLUSin Kelowna",
       "vin": "1N4BZ1CP1KC318911",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "SL PLUS",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/c13bafbde8d9.html",
       "source_url": "https://www.kelownanissan.com/used/2019-Nissan-LEAF-id14400822.html",
       "dealer_url": "https://www.kelownanissan.com/used/2019-Nissan-LEAF-id14400822.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -505,8 +574,10 @@
       "odometer_km": 44243,
       "year": 2019,
       "make": "Nissan",
-      "model": "LEAF SL PLUSin Kelowna",
-      "condition": "used"
+      "model": "Leaf",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan LEAF ",
@@ -522,13 +593,16 @@
       "year": 2019,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Rogue SL Platinum Reserve Interior AWDin Kelowna",
       "vin": "5N1AT2MV2KC713542",
       "stock": "NUMBER",
       "color": "Dark grey",
+      "trim": "SL Platinum Reserve Interior",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/0a7922108e9e.html",
       "source_url": "https://www.kelownanissan.com/used/2019-Nissan-Rogue-id14105697.html",
       "dealer_url": "https://www.kelownanissan.com/used/2019-Nissan-Rogue-id14105697.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -538,8 +612,10 @@
       "odometer_km": 97577,
       "year": 2019,
       "make": "Nissan",
-      "model": "Rogue SL Platinum Reserve Interior AWDin Kelowna",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Rogue ",
@@ -555,13 +631,16 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Titan XD PRO-4X Crew Cab 4WDin Kelowna",
       "vin": "1N6BA1F46KN523449",
       "stock": "NUMBER",
       "color": "Dark grey",
+      "trim": "XD PRO-4X",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/692ea9428956.html",
       "source_url": "https://www.kelownanissan.com/used/2019-Nissan-Titan_XD-id14306737.html",
       "dealer_url": "https://www.kelownanissan.com/used/2019-Nissan-Titan_XD-id14306737.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -571,14 +650,17 @@
       "odometer_km": 95685,
       "year": 2019,
       "make": "Nissan",
-      "model": "Titan XD PRO-4X Crew Cab 4WDin Kelowna",
-      "condition": "used"
+      "model": "Titan",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Titan XD ",
       "vin": "1N6BA1F46KN523449",
       "stock": 14306737,
       "color": "Dark grey",
+      "trim": "XD",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/853afd574a46.html",
       "source_url": "https://www.kelownanissan.com/used/2019-Nissan-Titan_XD.html",
       "dealer_url": "https://www.kelownanissan.com/used/2019-Nissan-Titan_XD.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -587,8 +669,10 @@
       "price_currency": "CAD",
       "year": 2019,
       "make": "Nissan",
-      "model": "Titan XD",
-      "condition": "used"
+      "model": "Titan",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Forester ",
@@ -604,7 +688,9 @@
       "year": 2019,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Forester ",
@@ -620,13 +706,16 @@
       "year": 2019,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Pathfinder SL Premium Rock Creek 4WDin Kelowna",
       "vin": "5N1DR2CM3LC583311",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "SL Premium Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/61a0e4f597f3.html",
       "source_url": "https://www.kelownanissan.com/used/2020-Nissan-Pathfinder-id14099588.html",
       "dealer_url": "https://www.kelownanissan.com/used/2020-Nissan-Pathfinder-id14099588.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -636,8 +725,10 @@
       "odometer_km": 102645,
       "year": 2020,
       "make": "Nissan",
-      "model": "Pathfinder SL Premium Rock Creek 4WDin Kelowna",
-      "condition": "used"
+      "model": "Pathfinder",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Pathfinder ",
@@ -653,13 +744,16 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Qashqai SL AWDin Kelowna",
       "vin": "JN1BJ1CW6LW383779",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "SL",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/c6e498a81435.html",
       "source_url": "https://www.kelownanissan.com/used/2020-Nissan-Qashqai-id14347404.html",
       "dealer_url": "https://www.kelownanissan.com/used/2020-Nissan-Qashqai-id14347404.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -669,8 +763,10 @@
       "odometer_km": 24174,
       "year": 2020,
       "make": "Nissan",
-      "model": "Qashqai SL AWDin Kelowna",
-      "condition": "used"
+      "model": "Qashqai",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Qashqai ",
@@ -686,7 +782,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Pathfinder ",
@@ -702,7 +800,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Qashqai ",
@@ -718,7 +818,9 @@
       "year": 2020,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 Buick Envision ",
@@ -734,7 +836,9 @@
       "year": 2021,
       "make": "Buick",
       "model": "Envision",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 Buick Envision ",
@@ -750,7 +854,9 @@
       "year": 2021,
       "make": "Buick",
       "model": "Envision",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 GMC Canyon ",
@@ -766,7 +872,9 @@
       "year": 2021,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 GMC Canyon ",
@@ -782,13 +890,16 @@
       "year": 2021,
       "make": "GMC",
       "model": "Canyon",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Murano SL AWDin Kelowna",
       "vin": "5N1AZ2CS5MC122744",
       "stock": "NUMBER",
       "color": "Dark grey",
+      "trim": "SL",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/a24d681b0f48.html",
       "source_url": "https://www.kelownanissan.com/used/2021-Nissan-Murano-id13781014.html",
       "dealer_url": "https://www.kelownanissan.com/used/2021-Nissan-Murano-id13781014.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -798,8 +909,10 @@
       "odometer_km": 34357,
       "year": 2021,
       "make": "Nissan",
-      "model": "Murano SL AWDin Kelowna",
-      "condition": "used"
+      "model": "Murano",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Murano ",
@@ -815,7 +928,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan NV200 S Compact Cargoin Kelowna",
@@ -832,7 +947,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "NV200 S Compact Cargoin Kelowna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan NV200 ",
@@ -848,7 +965,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "NV200",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Murano ",
@@ -864,7 +983,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan NV200 ",
@@ -880,7 +1001,9 @@
       "year": 2021,
       "make": "Nissan",
       "model": "NV200",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Mazda CX-9 ",
@@ -896,7 +1019,9 @@
       "year": 2022,
       "make": "Mazda",
       "model": "CX-9",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Mazda CX-9 ",
@@ -912,7 +1037,9 @@
       "year": 2022,
       "make": "Mazda",
       "model": "CX-9",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Mitsubishi Outlander PHEV ",
@@ -928,7 +1055,9 @@
       "year": 2022,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Mitsubishi Outlander PHEV ",
@@ -944,13 +1073,16 @@
       "year": 2022,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Murano Platinum AWDin Kelowna",
       "vin": "5N1AZ2DS0NC125373",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/4e25865206c9.html",
       "source_url": "https://www.kelownanissan.com/used/2022-Nissan-Murano-id14342899.html",
       "dealer_url": "https://www.kelownanissan.com/used/2022-Nissan-Murano-id14342899.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -960,8 +1092,10 @@
       "odometer_km": 98095,
       "year": 2022,
       "make": "Nissan",
-      "model": "Murano Platinum AWDin Kelowna",
-      "condition": "used"
+      "model": "Murano",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Murano ",
@@ -977,7 +1111,9 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Murano ",
@@ -993,7 +1129,9 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota Tacoma ",
@@ -1009,7 +1147,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota Tacoma ",
@@ -1025,7 +1165,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Maverick ",
@@ -1041,7 +1183,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Maverick ",
@@ -1057,13 +1201,16 @@
       "year": 2023,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue SL AWDin Kelowna",
       "vin": "JN8BT3CB5PW186452",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "SL",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/6b0bae2a5929.html",
       "source_url": "https://www.kelownanissan.com/used/2023-Nissan-Rogue-id14212648.html",
       "dealer_url": "https://www.kelownanissan.com/used/2023-Nissan-Rogue-id14212648.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1073,14 +1220,17 @@
       "odometer_km": 72282,
       "year": 2023,
       "make": "Nissan",
-      "model": "Rogue SL AWDin Kelowna",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue Platinum AWDin Kelowna",
       "vin": "JN8BT3DD4PW322764",
       "stock": "NUMBER",
       "color": "Dark grey",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/28fa71e77038.html",
       "source_url": "https://www.kelownanissan.com/used/2023-Nissan-Rogue-id14283638.html",
       "dealer_url": "https://www.kelownanissan.com/used/2023-Nissan-Rogue-id14283638.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1090,8 +1240,10 @@
       "odometer_km": 23139,
       "year": 2023,
       "make": "Nissan",
-      "model": "Rogue Platinum AWDin Kelowna",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue ",
@@ -1107,7 +1259,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue ",
@@ -1123,7 +1277,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota RAV4 ",
@@ -1139,7 +1295,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota RAV4 ",
@@ -1155,7 +1313,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco ",
@@ -1171,7 +1331,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco ",
@@ -1187,7 +1349,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Sierra 1500 ",
@@ -1203,7 +1367,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 GMC Sierra 1500 ",
@@ -1219,7 +1385,9 @@
       "year": 2024,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Infiniti QX60 ",
@@ -1235,7 +1403,9 @@
       "year": 2024,
       "make": "Infiniti",
       "model": "QX60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Infiniti QX80 ",
@@ -1251,7 +1421,9 @@
       "year": 2024,
       "make": "Infiniti",
       "model": "QX80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Infiniti QX60 ",
@@ -1267,7 +1439,9 @@
       "year": 2024,
       "make": "Infiniti",
       "model": "QX60",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Infiniti QX80 ",
@@ -1283,13 +1457,16 @@
       "year": 2024,
       "make": "Infiniti",
       "model": "QX80",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Frontier PRO-4X Luxury Package Crew Cab 4WDin Kelowna",
       "vin": "1N6ED1EK2RN603765",
       "stock": "NUMBER",
       "color": "Dark grey",
+      "trim": "PRO-4X Luxury Package",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/1e181c4431ad.html",
       "source_url": "https://www.kelownanissan.com/used/2024-Nissan-Frontier-id14336357.html",
       "dealer_url": "https://www.kelownanissan.com/used/2024-Nissan-Frontier-id14336357.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1299,8 +1476,10 @@
       "odometer_km": 38055,
       "year": 2024,
       "make": "Nissan",
-      "model": "Frontier PRO-4X Luxury Package Crew Cab 4WDin Kelowna",
-      "condition": "used"
+      "model": "Frontier",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Frontier ",
@@ -1316,13 +1495,16 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks 1.6 SV FWDin Kelowna",
       "vin": "3N1CP5CV1RL567818",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "1.6 SV",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/cb9277e8e6d8.html",
       "source_url": "https://www.kelownanissan.com/used/2024-Nissan-Kicks-id14162944.html",
       "dealer_url": "https://www.kelownanissan.com/used/2024-Nissan-Kicks-id14162944.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1332,14 +1514,17 @@
       "odometer_km": 18367,
       "year": 2024,
       "make": "Nissan",
-      "model": "Kicks 1.6 SV FWDin Kelowna",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks 1.6 SV FWDin Kelowna",
       "vin": "3N1CP5CV8RL580114",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "1.6 SV",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/97422348d7a1.html",
       "source_url": "https://www.kelownanissan.com/used/2024-Nissan-Kicks-id14263356.html",
       "dealer_url": "https://www.kelownanissan.com/used/2024-Nissan-Kicks-id14263356.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1349,14 +1534,17 @@
       "odometer_km": 10678,
       "year": 2024,
       "make": "Nissan",
-      "model": "Kicks 1.6 SV FWDin Kelowna",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks 1.6 SV FWDin Kelowna",
       "vin": "3N1CP5CV8RL568089",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "1.6 SV",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/c58630457520.html",
       "source_url": "https://www.kelownanissan.com/used/2024-Nissan-Kicks-id14269071.html",
       "dealer_url": "https://www.kelownanissan.com/used/2024-Nissan-Kicks-id14269071.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1366,14 +1554,17 @@
       "odometer_km": 9629,
       "year": 2024,
       "make": "Nissan",
-      "model": "Kicks 1.6 SV FWDin Kelowna",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks 1.6 S FWDin Kelowna",
       "vin": "3N1CP5BV2RL581759",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "1.6 S",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/a4b53bfbb399.html",
       "source_url": "https://www.kelownanissan.com/used/2024-Nissan-Kicks-id14388179.html",
       "dealer_url": "https://www.kelownanissan.com/used/2024-Nissan-Kicks-id14388179.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1383,8 +1574,10 @@
       "odometer_km": 33520,
       "year": 2024,
       "make": "Nissan",
-      "model": "Kicks 1.6 S FWDin Kelowna",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks ",
@@ -1400,13 +1593,16 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue S AWDin Kelowna",
       "vin": "JN8BT3AB3RW443453",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/2bb8fb86618d.html",
       "source_url": "https://www.kelownanissan.com/used/2024-Nissan-Rogue-id14131430.html",
       "dealer_url": "https://www.kelownanissan.com/used/2024-Nissan-Rogue-id14131430.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1416,14 +1612,17 @@
       "odometer_km": 36307,
       "year": 2024,
       "make": "Nissan",
-      "model": "Rogue S AWDin Kelowna",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue S AWDin Kelowna",
       "vin": "JN8BT3AB9RW438127",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/e21195f1ae10.html",
       "source_url": "https://www.kelownanissan.com/used/2024-Nissan-Rogue-id14162946.html",
       "dealer_url": "https://www.kelownanissan.com/used/2024-Nissan-Rogue-id14162946.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1433,14 +1632,17 @@
       "odometer_km": 48733,
       "year": 2024,
       "make": "Nissan",
-      "model": "Rogue S AWDin Kelowna",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue Platinum AWDin Kelowna",
       "vin": "JN8BT3DD5RW253960",
       "stock": "NUMBER",
       "color": "Dark grey",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/cad78eff9cec.html",
       "source_url": "https://www.kelownanissan.com/used/2024-Nissan-Rogue-id14207406.html",
       "dealer_url": "https://www.kelownanissan.com/used/2024-Nissan-Rogue-id14207406.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1450,14 +1652,17 @@
       "odometer_km": 95134,
       "year": 2024,
       "make": "Nissan",
-      "model": "Rogue Platinum AWDin Kelowna",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue SV Moonroof AWD w/Premium Packagein Kelowna",
       "vin": "JN8BT3BB4RW287129",
       "stock": "NUMBER",
       "color": "Dark grey",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/f894240c37cf.html",
       "source_url": "https://www.kelownanissan.com/used/2024-Nissan-Rogue-id14327038.html",
       "dealer_url": "https://www.kelownanissan.com/used/2024-Nissan-Rogue-id14327038.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1467,14 +1672,17 @@
       "odometer_km": 20795,
       "year": 2024,
       "make": "Nissan",
-      "model": "Rogue SV Moonroof AWD w/Premium Packagein Kelowna",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue Platinum AWDin Kelowna",
       "vin": "JN8BT3DDXRW452485",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/6c4005f36e67.html",
       "source_url": "https://www.kelownanissan.com/used/2024-Nissan-Rogue-id14329935.html",
       "dealer_url": "https://www.kelownanissan.com/used/2024-Nissan-Rogue-id14329935.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1484,14 +1692,17 @@
       "odometer_km": 21582,
       "year": 2024,
       "make": "Nissan",
-      "model": "Rogue Platinum AWDin Kelowna",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue SV Moonroof AWD w/Premium Packagein Kelowna",
       "vin": "JN8BT3BB1RW180006",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/498413a6ab9a.html",
       "source_url": "https://www.kelownanissan.com/used/2024-Nissan-Rogue-id14336358.html",
       "dealer_url": "https://www.kelownanissan.com/used/2024-Nissan-Rogue-id14336358.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1501,14 +1712,17 @@
       "odometer_km": 32013,
       "year": 2024,
       "make": "Nissan",
-      "model": "Rogue SV Moonroof AWD w/Premium Packagein Kelowna",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue Platinumin Kelowna",
       "vin": "JN8BT3DD2RW255505",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/34ff4c019453.html",
       "source_url": "https://www.kelownanissan.com/used/2024-Nissan-Rogue-id14336359.html",
       "dealer_url": "https://www.kelownanissan.com/used/2024-Nissan-Rogue-id14336359.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1518,14 +1732,17 @@
       "odometer_km": 26669,
       "year": 2024,
       "make": "Nissan",
-      "model": "Rogue Platinumin Kelowna",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue Platinum AWDin Kelowna",
       "vin": "JN8BT3DD6RW255927",
       "stock": "NUMBER",
       "color": "Dark grey",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/f206887c2bef.html",
       "source_url": "https://www.kelownanissan.com/used/2024-Nissan-Rogue-id14400824.html",
       "dealer_url": "https://www.kelownanissan.com/used/2024-Nissan-Rogue-id14400824.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1535,8 +1752,10 @@
       "odometer_km": 34504,
       "year": 2024,
       "make": "Nissan",
-      "model": "Rogue Platinum AWDin Kelowna",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue ",
@@ -1552,7 +1771,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Frontier ",
@@ -1568,7 +1789,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Kicks ",
@@ -1584,7 +1807,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue ",
@@ -1600,7 +1825,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Land Cruiser ",
@@ -1616,7 +1843,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Land Cruiser",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Land Cruiser ",
@@ -1632,7 +1861,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Land Cruiser",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Dodge Durango ",
@@ -1648,7 +1879,9 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Dodge Durango ",
@@ -1664,13 +1897,16 @@
       "year": 2025,
       "make": "Dodge",
       "model": "Durango",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks Play SV FWDin Kelowna",
       "vin": "3N1CP5CV0SL497959",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Play SV",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/9673dc6994bb.html",
       "source_url": "https://www.kelownanissan.com/used/2025-Nissan-Kicks_Play-id14342900.html",
       "dealer_url": "https://www.kelownanissan.com/used/2025-Nissan-Kicks_Play-id14342900.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1680,14 +1916,17 @@
       "odometer_km": 3428,
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks Play SV FWDin Kelowna",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks Play ",
       "vin": "3N1CP5CV0SL497959",
       "stock": 14342900,
       "color": "Red",
+      "trim": "Play",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/044f1ac3e324.html",
       "source_url": "https://www.kelownanissan.com/used/2025-Nissan-Kicks_Play.html",
       "dealer_url": "https://www.kelownanissan.com/used/2025-Nissan-Kicks_Play.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1696,14 +1935,17 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks Play",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue Platinum AWDin Kelowna",
       "vin": "JN8BT3DD7SW474661",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/2432a506969f.html",
       "source_url": "https://www.kelownanissan.com/used/2025-Nissan-Rogue-id13570859.html",
       "dealer_url": "https://www.kelownanissan.com/used/2025-Nissan-Rogue-id13570859.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1713,14 +1955,17 @@
       "odometer_km": 30445,
       "year": 2025,
       "make": "Nissan",
-      "model": "Rogue Platinum AWDin Kelowna",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue Platinum AWD w/Tech Packagein Kelowna",
       "vin": "JN8BT3DD6SW470732",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/03e4d9576ef3.html",
       "source_url": "https://www.kelownanissan.com/used/2025-Nissan-Rogue-id14099595.html",
       "dealer_url": "https://www.kelownanissan.com/used/2025-Nissan-Rogue-id14099595.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1730,8 +1975,10 @@
       "odometer_km": 11181,
       "year": 2025,
       "make": "Nissan",
-      "model": "Rogue Platinum AWD w/Tech Packagein Kelowna",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -1747,13 +1994,16 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks Play ",
       "vin": "3N1CP5CV0SL497959",
       "stock": 14342900,
       "color": "Red",
+      "trim": "Play",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/044f1ac3e324.html",
       "source_url": "https://www.kelownanissan.com/used/2025-Nissan-Kicks_Play.html",
       "dealer_url": "https://www.kelownanissan.com/used/2025-Nissan-Kicks_Play.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1762,8 +2012,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks Play",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -1779,7 +2031,9 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan ARIYAin Kelowna",
@@ -1793,7 +2047,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "ARIYAin Kelowna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Armada ",
@@ -1809,7 +2065,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks ",
@@ -1825,7 +2083,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan LEAF ",
@@ -1841,7 +2101,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Muranoin Kelowna",
@@ -1855,7 +2117,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Muranoin Kelowna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Pathfinder ",
@@ -1871,7 +2135,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -1887,11 +2153,14 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Plug-In Hybridin Kelowna",
       "stock": "NUMBER",
+      "trim": "Hybrid",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/ec54bda1ac8e.html",
       "source_url": "https://www.kelownanissan.com/new/2026-Nissan-Rogue_Plug_In_Hybrid.html",
       "dealer_url": "https://www.kelownanissan.com/new/2026-Nissan-Rogue_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1900,8 +2169,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Plug-In Hybridin Kelowna",
-      "condition": "used"
+      "model": "Rogue Plug-In",
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra ",
@@ -1917,7 +2188,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Zin Kelowna",
@@ -1931,7 +2204,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Zin Kelowna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan ARIYAin Kelowna",
@@ -1945,7 +2220,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "ARIYAin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Armada ",
@@ -1961,7 +2238,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Armada",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks ",
@@ -1977,7 +2256,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan LEAF ",
@@ -1993,7 +2274,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Muranoin Kelowna",
@@ -2007,7 +2290,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Muranoin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Pathfinder ",
@@ -2023,7 +2308,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -2039,11 +2326,14 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Plug-In Hybridin Kelowna",
       "stock": "NUMBER",
+      "trim": "Hybrid",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/ec54bda1ac8e.html",
       "source_url": "https://www.kelownanissan.com/new/2026-Nissan-Rogue_Plug_In_Hybrid.html",
       "dealer_url": "https://www.kelownanissan.com/new/2026-Nissan-Rogue_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2052,8 +2342,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Plug-In Hybridin Kelowna",
-      "condition": "new"
+      "model": "Rogue Plug-In",
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra ",
@@ -2069,7 +2361,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Zin Kelowna",
@@ -2083,7 +2377,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Zin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks ",
@@ -2099,7 +2395,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan LEAF ",
@@ -2115,7 +2413,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Pathfinder ",
@@ -2131,7 +2431,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Pathfinder",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -2147,7 +2449,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra ",
@@ -2163,7 +2467,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan ARIYAin Kelowna",
@@ -2177,7 +2483,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "ARIYAin Kelowna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Frontier ",
@@ -2193,7 +2501,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan LEAF ",
@@ -2209,7 +2519,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Murano ",
@@ -2225,7 +2537,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan ARIYAin Kelowna",
@@ -2239,7 +2553,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "ARIYAin Kelowna",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Frontier ",
@@ -2255,7 +2571,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan LEAF ",
@@ -2271,7 +2589,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Murano ",
@@ -2287,7 +2607,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Frontier ",
@@ -2303,7 +2625,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan LEAF ",
@@ -2319,7 +2643,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "LEAF",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Murano ",
@@ -2335,7 +2661,9 @@
       "year": 2027,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kelowna",
+      "province": "BC"
     }
   ]
 }
