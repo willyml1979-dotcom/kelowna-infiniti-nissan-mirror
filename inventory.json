@@ -1,6 +1,6 @@
 {
   "dealership": "Kelowna Infiniti Nissan",
-  "generated_at": "2026-10-25T19:36:26",
+  "generated_at": "2026-10-26T04:39:54",
   "vehicle_count": 107,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -46,7 +46,7 @@
       "make": "Nissan",
       "model": "Juke",
       "condition": "used",
-      "price": 12900.0,
+      "price": 11900.0,
       "price_currency": "CAD"
     },
     {
@@ -860,7 +860,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 36900.0,
+      "price": 35688.0,
       "price_currency": "CAD"
     },
     {
@@ -882,7 +882,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 36900.0,
+      "price": 35688.0,
       "price_currency": "CAD"
     },
     {
