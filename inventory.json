@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Infiniti Nissan",
-  "generated_at": "2026-11-17T20:44:12",
-  "vehicle_count": 103,
+  "generated_at": "2026-11-18T06:14:28",
+  "vehicle_count": 105,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -46,11 +46,35 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford Explorer 2017 for salein Kelowna",
+      "vin": "1FM5K8D84HGA38702",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/9f34807fc8c8.html",
+      "condition": "used",
+      "price": 17900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Lexus RX 350 2017 for salein Kelowna",
       "vin": "2T2BZMCA3HC084886",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/5218c6cd47b3.html",
       "condition": "used",
       "price": 25283.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Pathfinder 2017 for salein Kelowna",
+      "vin": "5N1DR2MM0HC690645",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/79f7aade6eee.html",
+      "condition": "used",
+      "price": 18900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2017 for salein Kelowna",
+      "vin": "5N1AT2MV6HC786020",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/3defe8346e1b.html",
+      "condition": "used",
+      "price": 17900.0,
       "price_currency": "CAD"
     },
     {
@@ -134,11 +158,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Lincoln Navigator 2020 for salein Kelowna",
+      "vin": "5LMJJ2LT3LEL01395",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/a7ca173319af.html",
+      "condition": "used",
+      "price": 52900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Toyota Tacoma 2020 for salein Kelowna",
       "vin": "5TFCZ5AN3LX234090",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/082bdf0cbfa7.html",
       "condition": "used",
       "price": 54900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Buick Envision 2021 for salein Kelowna",
+      "vin": "LRBFZSR44MD124559",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/7f9ceea64f40.html",
+      "condition": "used",
+      "price": 27900.0,
       "price_currency": "CAD"
     },
     {
@@ -302,6 +342,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Nissan Rogue 2024 for salein Kelowna",
+      "vin": "JN8BT3AB9RW438127",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/b361c56ba4e8.html",
+      "condition": "used",
+      "price": 23900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Volkswagen Golf R 2024 for salein Kelowna",
       "vin": "WVWCB7CDXRW140050",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/f2c9c4b38e32.html",
@@ -323,6 +371,14 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/5ddac8413810.html",
       "condition": "used",
       "price": 40900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2025 for salein Kelowna",
+      "vin": "JN8BT3AB5SW430998",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/01a80baf6b6d.html",
+      "condition": "used",
+      "price": 26777.0,
       "price_currency": "CAD"
     },
     {
@@ -444,17 +500,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Audi Q5 Progressiv quattro w/S Line Sport and Navigationin Kelowna",
-      "vin": "WA1M2AFP2HA079919",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/944a84aef197.html",
-      "year": 2017,
-      "make": "Audi",
-      "model": "Q5",
-      "condition": "used",
-      "price": 18900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Ford Escape Titanium 4WDin Kelowna",
       "vin": "1FMCU9J97HUE11091",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/b6db05420273.html",
@@ -463,6 +508,17 @@
       "model": "Escape",
       "condition": "used",
       "price": 14900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Nissan Pathfinder SL 4WDin Kelowna",
+      "vin": "5N1DR2MM0HC690645",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/38f78ca639e1.html",
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "condition": "used",
+      "price": 18900.0,
       "price_currency": "CAD"
     },
     {
@@ -488,17 +544,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Nissan Rogue ",
-      "vin": "5N1AT2MV6HC786020",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/3defe8346e1b.html",
-      "year": 2017,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 17900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Nissan Rogue SV AWD w/Moonroof + Technology Packagein Kelowna",
       "vin": "5N1AT2MV5JC777279",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/da3790e9461c.html",
@@ -507,39 +552,6 @@
       "model": "Rogue",
       "condition": "used",
       "price": 15900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Escape SE 4WDin Kelowna",
-      "vin": "1FMCU9GD0KUC12502",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/465e59a72561.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 16788.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Lincoln Navigator ",
-      "vin": "5LMJJ2LT3LEL01395",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/a7ca173319af.html",
-      "year": 2020,
-      "make": "Lincoln",
-      "model": "Navigator",
-      "condition": "used",
-      "price": 52900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Buick Envision ",
-      "vin": "LRBFZSR44MD124559",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/7f9ceea64f40.html",
-      "year": 2021,
-      "make": "Buick",
-      "model": "Envision",
-      "condition": "used",
-      "price": 27900.0,
       "price_currency": "CAD"
     },
     {
@@ -730,17 +742,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Rogue ",
-      "vin": "JN8BT3AB9RW438127",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/b361c56ba4e8.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 23900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Nissan Pathfinder S 4WD 8 Passengerin Kelowna",
       "vin": "5N1DR3AC4SC237203",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/4772f8047266.html",
@@ -774,14 +775,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Rogue ",
-      "vin": "JN8BT3DD6SW470732",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/01a80baf6b6d.html",
+      "name": "2025 Nissan Rogue S AWDin Kelowna",
+      "vin": "JN8BT3AB5SW430998",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/767b1fdb00b7.html",
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 35688.0,
+      "price": 26777.0,
       "price_currency": "CAD"
     },
     {
