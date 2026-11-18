@@ -1,6 +1,6 @@
 {
   "dealership": "Kelowna Infiniti Nissan",
-  "generated_at": "2026-11-17T20:41:02",
+  "generated_at": "2026-11-17T20:44:12",
   "vehicle_count": 103,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -323,6 +323,30 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/5ddac8413810.html",
       "condition": "used",
       "price": 40900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Frontier 2026 for salein Kelowna",
+      "vin": "1N6ED1FKXTN675223",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/64daaaf7ef9c.html",
+      "condition": "new",
+      "price": 62843.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Kicks 2026 for salein Kelowna",
+      "vin": "3N8AP6BB0TL393222",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/12a11ea300e2.html",
+      "condition": "new",
+      "price": 29198.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Pathfinder 2026 for salein Kelowna",
+      "vin": "5N1DR3BE7TC296845",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/b60b807965fc.html",
+      "condition": "new",
+      "price": 57448.0,
       "price_currency": "CAD"
     },
     {
@@ -831,15 +855,13 @@
       "condition": "new"
     },
     {
-      "name": "2026 Nissan Rogue ",
+      "name": "2026 Nissan Roguein Kelowna",
       "vin": "JN8BT3AB3TW086511",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/8ef5fe729c92.html",
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue",
-      "condition": "new",
-      "price": 37148.0,
-      "price_currency": "CAD"
+      "model": "Roguein Kelowna",
+      "condition": "new"
     },
     {
       "name": "2026 Nissan Rogue Plug-In Hybridin Kelowna",
@@ -852,15 +874,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Sentra ",
+      "name": "2026 Nissan Sentrain Kelowna",
       "vin": "3N1AB9BV2TY288676",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/fad4944a6687.html",
       "year": 2026,
       "make": "Nissan",
-      "model": "Sentra",
-      "condition": "new",
-      "price": 27368.0,
-      "price_currency": "CAD"
+      "model": "Sentrain Kelowna",
+      "condition": "new"
     },
     {
       "name": "2026 Nissan Zin Kelowna",
@@ -873,40 +893,8 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Frontier ",
-      "vin": "1N6ED1FKXTN675223",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/64daaaf7ef9c.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Frontier",
-      "condition": "new",
-      "price": 62843.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Kicks ",
-      "vin": "3N8AP6BB2TL421070",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/12a11ea300e2.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "new",
-      "price": 29198.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Pathfinder ",
-      "vin": "5N1DR3DJ4TC262971",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/b60b807965fc.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Pathfinder",
-      "condition": "new",
-      "price": 62748.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Nissan ARIYAin Kelowna",
+      "vin": "JN8DF0BF0VM830211",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/1413b87ebd50.html",
       "year": 2027,
       "make": "Nissan",
@@ -927,47 +915,41 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Frontier ",
+      "name": "2027 Nissan Frontierin Kelowna",
       "vin": "1N6ED1EK4VN603034",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/ebbbe8625724.html",
       "year": 2027,
       "make": "Nissan",
-      "model": "Frontier",
-      "condition": "new",
-      "price": 59348.0,
-      "price_currency": "CAD"
+      "model": "Frontierin Kelowna",
+      "condition": "new"
     },
     {
-      "name": "2027 Nissan Kicks ",
-      "vin": "3N8AP6CB0VL301091",
+      "name": "2027 Nissan Kicksin Kelowna",
+      "vin": "3N8AP6CB6VL334404",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/f6f76cf1ff61.html",
       "year": 2027,
       "make": "Nissan",
-      "model": "Kicks",
-      "condition": "new",
-      "price": 35673.0,
-      "price_currency": "CAD"
+      "model": "Kicksin Kelowna",
+      "condition": "new"
     },
     {
-      "name": "2027 Nissan LEAF ",
-      "vin": "JN1AZ2CAXVM401780",
+      "name": "2027 Nissan LEAFin Kelowna",
+      "vin": "JN1AZ2CA4VM401936",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/1e0a5bcb0e16.html",
       "year": 2027,
       "make": "Nissan",
-      "model": "LEAF",
-      "condition": "new",
-      "price": 45398.0,
-      "price_currency": "CAD"
+      "model": "LEAFin Kelowna",
+      "condition": "new"
     },
     {
-      "name": "2027 Nissan Murano ",
+      "name": "2027 Nissan Muranoin Kelowna",
       "vin": "5N1AZ3DS9VC103832",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/ed9872dc0915.html",
       "year": 2027,
       "make": "Nissan",
-      "model": "Murano",
+      "model": "Muranoin Kelowna",
       "condition": "new",
-      "price": 59498.0,
+      "price": 55048.0,
       "price_currency": "CAD"
     },
     {
