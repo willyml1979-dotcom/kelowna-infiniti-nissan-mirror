@@ -1,6 +1,6 @@
 {
   "dealership": "Kelowna Infiniti Nissan",
-  "generated_at": "2026-11-16T23:29:44",
+  "generated_at": "2026-11-17T20:41:02",
   "vehicle_count": 103,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -118,11 +118,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Subaru Forester 2019 for salein Kelowna",
+      "vin": "JF2SKEGC9KH464040",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/6665e953ba8f.html",
+      "condition": "used",
+      "price": 22900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Lexus RX 2020 for salein Kelowna",
       "vin": "2T2YZMDA1LC218022",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/5575f5f3fe2a.html",
       "condition": "used",
       "price": 37900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Tacoma 2020 for salein Kelowna",
+      "vin": "5TFCZ5AN3LX234090",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/082bdf0cbfa7.html",
+      "condition": "used",
+      "price": 54900.0,
       "price_currency": "CAD"
     },
     {
@@ -147,6 +163,30 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/10ee485626b5.html",
       "condition": "used",
       "price": 31900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda CX-9 2022 for salein Kelowna",
+      "vin": "JM3TCBEY9N0621041",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/c83ae43ce807.html",
+      "condition": "used",
+      "price": 31900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Murano 2022 for salein Kelowna",
+      "vin": "5N1AZ2DS0NC125373",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/fd61ee222d2f.html",
+      "condition": "used",
+      "price": 29500.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Tundra 2022 for salein Kelowna",
+      "vin": "5TFLA5DB0NX034876",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/4b91f55ae9f4.html",
+      "condition": "used",
+      "price": 47900.0,
       "price_currency": "CAD"
     },
     {
@@ -198,6 +238,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Chevrolet Silverado 1500 2024 for salein Kelowna",
+      "vin": "2GCUDDED6R1221015",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/e3b187aadd2a.html",
+      "condition": "used",
+      "price": 46900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 1500 2024 for salein Kelowna",
+      "vin": "3GTUUBEDXRG239934",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/f87d3f75a37f.html",
+      "condition": "used",
+      "price": 46900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "GMC Terrain 2024 for salein Kelowna",
       "vin": "3GKALXEG2RL394843",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/061166df24a8.html",
@@ -214,11 +270,51 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Infiniti QX60 2024 for salein Kelowna",
+      "vin": "5N1DL1GS5RC353301",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/23fdb86464b2.html",
+      "condition": "used",
+      "price": 51900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Infiniti QX80 2024 for salein Kelowna",
+      "vin": "JN8AZ2AE0R9327933",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/80c0ad327c78.html",
+      "condition": "used",
+      "price": 42900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Frontier 2024 for salein Kelowna",
+      "vin": "1N6ED1EK2RN603765",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/f4ad25000a80.html",
+      "condition": "used",
+      "price": 50900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Kicks 2024 for salein Kelowna",
+      "vin": "3N1CP5BV2RL581759",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/21bd0d87b252.html",
+      "condition": "used",
+      "price": 20888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Volkswagen Golf R 2024 for salein Kelowna",
       "vin": "WVWCB7CDXRW140050",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/f2c9c4b38e32.html",
       "condition": "used",
       "price": 44900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco Sport 2025 for salein Kelowna",
+      "vin": "3FMCR9BNXSRE32920",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/01abb3a830ca.html",
+      "condition": "used",
+      "price": 33800.0,
       "price_currency": "CAD"
     },
     {
@@ -401,17 +497,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Subaru Forester ",
-      "vin": "JF2SKEUCXKH412386",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/6665e953ba8f.html",
-      "year": 2019,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 26388.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Lincoln Navigator ",
       "vin": "5LMJJ2LT3LEL01395",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/a7ca173319af.html",
@@ -420,17 +505,6 @@
       "model": "Navigator",
       "condition": "used",
       "price": 52900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Toyota Tacoma ",
-      "vin": "5TFCZ5AN3LX234090",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/082bdf0cbfa7.html",
-      "year": 2020,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 54900.0,
       "price_currency": "CAD"
     },
     {
@@ -456,17 +530,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Mazda CX-9 ",
-      "vin": "JM3TCBEY9N0621041",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/c83ae43ce807.html",
-      "year": 2022,
-      "make": "Mazda",
-      "model": "CX-9",
-      "condition": "used",
-      "price": 31900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Nissan Murano Platinum AWDin Kelowna",
       "vin": "5N1AZ2DS0NC125373",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/4e25865206c9.html",
@@ -475,28 +538,6 @@
       "model": "Murano",
       "condition": "used",
       "price": 29500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Nissan Murano ",
-      "vin": "5N1AZ2DS0NC125373",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/fd61ee222d2f.html",
-      "year": 2022,
-      "make": "Nissan",
-      "model": "Murano",
-      "condition": "used",
-      "price": 29500.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Toyota Tundra ",
-      "vin": "5TFLA5DB0NX034876",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/4b91f55ae9f4.html",
-      "year": 2022,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "used",
-      "price": 47900.0,
       "price_currency": "CAD"
     },
     {
@@ -566,50 +607,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Chevrolet Silverado 1500 ",
-      "vin": "2GCUDDED6R1221015",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/e3b187aadd2a.html",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 46900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 GMC Sierra 1500 ",
-      "vin": "3GTUUBEDXRG239934",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/f87d3f75a37f.html",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 45900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Infiniti QX60 ",
-      "vin": "5N1DL1GS5RC353301",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/23fdb86464b2.html",
-      "year": 2024,
-      "make": "Infiniti",
-      "model": "QX60",
-      "condition": "used",
-      "price": 51900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Infiniti QX80 ",
-      "vin": "JN8AZ2AE0R9327933",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/80c0ad327c78.html",
-      "year": 2024,
-      "make": "Infiniti",
-      "model": "QX80",
-      "condition": "used",
-      "price": 43500.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Nissan Frontier PRO-4X Luxury Package Crew Cab 4WDin Kelowna",
       "vin": "1N6ED1EK2RN603765",
       "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/1e181c4431ad.html",
@@ -617,18 +614,7 @@
       "make": "Nissan",
       "model": "Frontier",
       "condition": "used",
-      "price": 51900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Frontier ",
-      "vin": "1N6ED1EK2RN603765",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/f4ad25000a80.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Frontier",
-      "condition": "used",
-      "price": 51900.0,
+      "price": 50900.0,
       "price_currency": "CAD"
     },
     {
@@ -662,17 +648,6 @@
       "model": "Kicks",
       "condition": "used",
       "price": 22900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Kicks ",
-      "vin": "3N1CP5BV2RL581759",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/21bd0d87b252.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 20888.0,
       "price_currency": "CAD"
     },
     {
@@ -739,17 +714,6 @@
       "model": "Rogue",
       "condition": "used",
       "price": 23900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Bronco Sport ",
-      "vin": "3FMCR9BNXSRE32920",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/01abb3a830ca.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "used",
-      "price": 33800.0,
       "price_currency": "CAD"
     },
     {
