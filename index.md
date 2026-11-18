@@ -1,6 +1,6 @@
 # Kelowna Infiniti Nissan
 
- dealership in Kelowna. AI-readable inventory mirror, about 105 vehicles.
+ dealership in Kelowna. AI-readable inventory mirror, about 106 vehicles.
 
 - Official website: https://www.kelownanissan.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/

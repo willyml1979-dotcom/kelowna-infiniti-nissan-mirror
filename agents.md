@@ -7,7 +7,7 @@ Kelowna Infiniti Nissan is a  dealership in Kelowna. This site is an AI-readable
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/ and https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/ (about 105 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/used/ and https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/new/ (about 106 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/kelowna-infiniti-nissan-mirror/llms.txt
